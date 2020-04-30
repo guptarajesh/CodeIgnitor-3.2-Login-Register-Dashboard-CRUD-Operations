@@ -36,19 +36,19 @@ Go to .htaccess and update base path of directory name.
 
 **System Administrator Account :**
 
-### Login for Admin:  <br> <b>Url</b>- http://localhost/yourprojectname/login </br> <b>User Email</b>- admin@example.com <br>  <b>Password</b>- 123456  <br>
+### Login for Admin:  <br> <b>Url</b>- http://localhost/yourprojectname/login </br> <b>Admin User Email</b>- admin@example.com <br>  <b>Password</b>- 123456  <br>
 
 Manager and Employee Login also there- 
 
 **Manager Account :**
 
-email :  manager@example.com
+Email :  manager@example.com
 
 password : 123456
 
 **Employee Account :**
 
-email : employee@example.com
+Email : employee@example.com
 
 password : 123456
 
@@ -57,15 +57,15 @@ password : 123456
 Create Database and Import database tables in your created database. Exported .sql file available at DB folder of repositry.
 
 ## Wiki
-Please view the [wiki](https://github.com/guptarajesh/Laravel-6.2-Login-Register-Dashboard-CRUD-Operations) for a list of features. <br>
+Please view the [wiki](https://github.com/guptarajesh/CodeIgnitor-3.2-Login-Register-Dashboard-CRUD-Operations) for a list of features. <br>
 
 ## Issues
-If you come across any issues please [report them here](https://github.com/guptarajesh/Laravel-6.2-Login-Register-Dashboard-CRUD-Operations) . <br>
+If you come across any issues please [report them here](https://github.com/guptarajesh/CodeIgnitor-3.2-Login-Register-Dashboard-CRUD-Operations) . <br>
 
 
 ###  Donate & Contributing:
 
-Lets build it together I will be glad if you consider contribute to the Laravel Booking project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to, <b>Rajesh Gupta</b> at gupta.software@gmail.com <br>
+Lets build it together I will be glad if you consider contribute to the CodeIgnitor 3.2 CRUD based Admin Dashboard project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to, <b>Rajesh Gupta</b> at gupta.software@gmail.com <br>
  
 Please donate for my site hosting and domain expences at <b>Paypal</b>- gupta.software@gmail.com     <br>
 
